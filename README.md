@@ -1,7 +1,18 @@
 # UltraSonic
 Various_UltraSonic_Arduino
 
-__TinkerCad__
+## 준비물
+  + 아두이노Uno보드, 브래드보드, LED, Button, Piezo, 초음파센서, 4.7kΩ, 220Ω 저항 한개씩, 점퍼선 
+  
+## 기능
+|Pin number|Name|Function|
+|------|---|---|
+|3,4|UltrasonicSensor|거리감지|
+|7|Button|버튼기능|
+|9|LED|발광기능|
+|11|Piezo|소리|
+
+## TinkerCad
 ![tinkercad](UltraSonic.png)
 
 
